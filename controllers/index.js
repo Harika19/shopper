@@ -1,5 +1,5 @@
 const getMain = (req, res) => {
-    res.status(200).json({ msg: "harika is dumboo" });
+    res.status(200).json({ msg: "sucess...!" });
 };
 
 const getSecond = (req, res) => {
